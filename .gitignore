@@ -1,2 +1,5 @@
 cache
 data/Institutional_Provider_Network_Data__2018_Quarter_4.csv
+data/Institutional_Provider_Network_Data__2021_Quarter_1.csv
+/.ipynb_checkpoints
+.DS_Store
