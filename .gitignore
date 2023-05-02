@@ -3,3 +3,6 @@ data/Institutional_Provider_Network_Data__2018_Quarter_4.csv
 data/Institutional_Provider_Network_Data__2021_Quarter_1.csv
 /.ipynb_checkpoints
 .DS_Store
+data/ny_npi.csv
+data/npidata_pfile_20050523-20230409.csv
+.vscode/settings.json
